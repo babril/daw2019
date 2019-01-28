@@ -16,6 +16,9 @@ and open the template in the editor.
         echo 'Voy a guardar el primer COMMIT';
         echo 'Líneas después de Commit';
         echo 'Voy a guardar el segundo COMMIT';
+        echo 'Voy a hacer PUSH, en el nombre, GIT>Remote>Push';
+        echo 'Guardo en servidor Local';
+        echo 'Guardo en remoto'
         ?>
     </body>
 </html>
